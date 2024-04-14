@@ -1,0 +1,331 @@
+p {
+    color: black;
+}
+
+table {
+    border: 3px solid black;
+}
+
+th {
+    border: 2px solid black;
+    padding: 20px;
+    background-color: BLACK;
+    color: white;
+}
+
+td {
+    border: 3px solid black;
+    padding: 20px 40px 20px 40px;
+    text-align: center;
+    background-color: BLACK;
+    color: white;
+}
+
+h1 {
+    color: aqua;
+    background-color: red;
+}
+
+H3 {
+    color: coral;
+}
+
+h4 {
+    color: blue;
+}
+
+#h2 {
+    color: goldenrod;
+    background-color: black;
+    margin-top: 40px;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+#h3 {
+    color: goldenrod;
+    background-color: black;
+    margin-top: 40px;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+#h4 {
+    color: goldenrod;
+    background-color: black;
+    margin-top: 40px;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+h5 {
+    color: blue;
+}
+
+#h5 {
+    color: goldenrod;
+    background-color: black;
+    margin-top: 40px;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+button {
+    color: blue;
+    background-color: orange;
+}
+
+#p1 {
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: justify;
+}
+
+#heading1 {
+    padding-left: 30px;
+    text-align: center;
+}
+
+#heading2 {
+    margin-top: 40px;
+}
+
+#but1 {
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+
+}
+
+#mp1 {
+
+    height: 400px;
+    width: 600px;
+}
+
+
+#mp2 {
+    height: 400px;
+    width: 600px;
+}
+
+#but2 {
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#but3 {
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#but4 {
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border-radius: 50px;
+
+}
+
+#m1 {
+    height: 500px;
+    width: 600px;
+}
+
+#m2 {
+    height: 500px;
+    width: 600px;
+}
+
+#b1 {
+    height: 500px;
+    width: 600px;
+}
+
+#b2 {
+    height: 500px;
+    width: 600px;
+}
+
+#up {
+    background-color: lightseagreen;
+}
+
+#mh {
+    background-color: rgb(123, 216, 245);
+}
+
+#bihar {
+    background-color: chartreuse;
+}
+
+#mp7 {
+    background-color: crimson;
+}
+
+#u1 {
+    height: 500px;
+    width: 600px;
+}
+
+#u2 {
+    height: 500px;
+    width: 600px;
+}
+
+#ind {
+    background-color: darkgrey;
+    margin: 100px;
+}
+
+#b8 {
+    font-size: 18px;
+    padding: 15px 20px 15px 20px;
+    margin: 10px;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+#b8:hover {
+    background-color: orange;
+    font-size: 24px;
+    border-radius: 20px;
+    padding: 18px 24px 18px 24px;
+    color: white;
+}
+
+#b9:hover {
+    background-color: rgb(30, 219, 93);
+    font-size: 24px;
+    border-radius: 20px;
+    padding: 18px 24px 18px 24px;
+    color: white;
+}
+
+#b10:hover {
+    background-color: rgb(212, 34, 34);
+    font-size: 24px;
+    border-radius: 20px;
+    padding: 18px 24px 18px 24px;
+    color: white;
+}
+
+
+#b11:hover {
+    background-color: rgb(233, 34, 167);
+    font-size: 24px;
+    border-radius: 20px;
+    padding: 18px 24px 18px 24px;
+    color: white;
+}
+
+#b9 {
+    font-size: 18px;
+    padding: 15px 20px 15px 20px;
+    margin: 10px;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+
+}
+
+#b10 {
+    font-size: 18px;
+    padding: 15px 20px 15px 20px;
+    margin: 10px;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+#b11 {
+    font-size: 18px;
+    padding: 15px 20px 15px 20px;
+    margin: 10px;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#vm {
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    color: white;
+    background-color: rgb(253, 7, 7);
+}
+
+.resultbtn {
+    font-size: 18px;
+    padding: 15px 20px 15px 20px;
+    margin: 100px;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    margin-left: 1px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+
+
+#result {
+    display: none;
+}
+
+#i1 {
+    padding: 10px;
+    width: 300px;
+}
+
+#maindiv {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#votingimg {
+    width: 742px;
+}
+
+#res {
+    display: none;
+}
+
+@media (max-width: 426px) {
+    #maindiv {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    #votingimg {
+        width: 350px;
+        margin-left: 0px;
+    }
+
+    .resultbtn {
+        font-size: 18px;
+        padding: 8px 10px 8px 10px;
+        margin: 10px;
+        color: white;
+        background-color: rgb(230, 52, 162);
+        border-radius: 5px;
+        margin-left: 1px;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+
+}

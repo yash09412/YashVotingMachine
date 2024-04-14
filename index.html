@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>DIGTAL VOTING MACHINE</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="script.js"></script>
+    </head>
+    <body>
+        <h1 id="vm">Voting Machine</h1>
+        <div id="maindiv">
+            <div>
+                <h2>
+                    Name:
+                    <input type="text" id="i1">
+                </h2>
+                <button onclick="votebjp()" id="b8">BJP</button>
+                <button onclick="votecon()" id="b9">Congress</button>
+                <button onclick="votess()" id="b10">ShivSena</button>
+                <button onclick="voterr()" id="b11">Rashtravadi</button>
+            </div>
+            <button onclick="showoption()" class="resultbtn" id="end">End Voting</button>
+            <div id="res">
+                <button onclick="showresult()" class="resultbtn"> Show Results</button>
+                <button onclick="hideresult()" class="resultbtn"> Hide Results</button>
+            </div>
+            <table id="result">
+                <tr>
+                    <th>PARTY</th>
+                    <th>VOTES</th>
+                </tr>
+                <tr>
+                    <td>BJP</td>
+                    <td id="bjpvotes">0</td>
+                </tr>
+                <tr>
+                    <td>CONGRESS</td>
+                    <td id="convotes">0</td>
+                </tr>
+                <tr>
+                    <td>SHIVSENA</td>
+                    <td id="ssvotes">0</td>
+                </tr>
+                <tr>
+                    <td>RASTRAVADI</td>
+                    <td id="rrvotes">0</td>
+                </tr>
+            </table>
+            <img id="votingimg" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/82/c9/4c82c92b-8c6c-2d57-7e77-6e31d5d720bb/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/1200x630wa.png">
+        </div>
+    </body>
+</html>
