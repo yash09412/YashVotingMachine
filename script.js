@@ -67,5 +67,6 @@ function showoption() {
         alert("Voting has ended...Please check result!!");
         document.getElementById('res').style.display = "block";
         document.getElementById('end').style.display = "none";
+         document.getElementById('evm').style.display = "none";
     }
 }
